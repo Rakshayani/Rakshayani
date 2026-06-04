@@ -1,9 +1,32 @@
-Welcome to my GitHub profile! I'm passionate about Data analytics.
+# Rakshayani Thyagu
 
-- 👋 Hi, I'm Rakshayani Thyagu A.K.A 'June' a Data Analyst.
-- 🔍 Delving into analytics, currently learning ML, and exploring various NLP use cases.
-- 🤝 Open to collaborations in EDA using Jupyter, NLP, and MLOps.
-- 💬 Let's dive into EDA, Python, ML, and unravel data narratives.
-- 📬 Connect on [LinkedIn] for data-driven conversations.
-- ⚡ Fun fact: My curiosity thrives on data; I'm poetic, cinema connoisseur, making me a storyteller at heart! 📊🎬
-- 📝 Explore more on [Medium](https://medium.com/@rakshayanithyagu).
+## Business Intelligence • Strategic Analytics • Decision Science
+
+Welcome to my GitHub.
+
+This space serves as a collection of projects, analytical frameworks, experiments, and continuous learning across business intelligence, strategy, data analytics, machine learning, and natural language processing.
+
+### Areas of Interest
+
+* Business Intelligence
+* Strategic Analytics
+* Forecasting & Decision Support
+* Data Visualization
+* Applied Machine Learning
+* Natural Language Processing
+* Data Storytelling
+
+### Philosophy
+
+I am interested in understanding how data, systems, and human decisions interact to shape business outcomes. My work focuses on transforming complex information into clear insights that support better decision-making.
+
+### Current Focus
+
+* Building stronger foundations in Machine Learning
+* Exploring NLP applications for business problems
+* Developing analytical frameworks for strategic decision-making
+* Expanding knowledge in predictive and decision intelligence systems
+
+### Tools & Technologies
+
+SQL • Python • Power BI • Tableau • Excel
